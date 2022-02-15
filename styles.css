@@ -5,11 +5,17 @@ body {
 
 ul {
   list-style-type: none;
+  background-color: #06bcc1;
+  border-radius: 50px;
+  width: 500px;
+  height: 500px;
 }
 
 .project {
+  position: relative;
+  top: 30px;
   font-size: 50px;
-  color: #00e5ff;
+  color: black;
 }
 
 .home-title {

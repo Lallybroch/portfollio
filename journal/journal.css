@@ -1,0 +1,26 @@
+body {
+  background-color: #161b4c;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  font-size: 30px;
+}
+
+.entry {
+  position: relative;
+  font-family: monospace;
+  background-color: #06bcc1;
+  border-radius: 20px;
+  border-style: solid;
+  margin: 100px;
+  width: 60%;
+  left: 15%;
+}
+.entry-text {
+  color: #161b4c;
+  padding: 10px;
+}
